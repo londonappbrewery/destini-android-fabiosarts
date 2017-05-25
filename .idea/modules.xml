@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Destini-Android.iml" filepath="$PROJECT_DIR$/Destini-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/destini-android-fabiosarts.iml" filepath="$PROJECT_DIR$/destini-android-fabiosarts.iml" />
     </modules>
   </component>
 </project>
